@@ -4,7 +4,7 @@
 
  <h3>Sample Input</h3>
 <pre><span class="CodeEditor-promptParameter">stringOne</span> = 'ehportsatac'
-<span class="CodeEditor-promptParameter">stringOne</span> = 'catastrophe'
+<span class="CodeEditor-promptParameter">stringTwo</span> = 'catastrophe'
 </pre>
 
 <h3>Sample Output</h3>
